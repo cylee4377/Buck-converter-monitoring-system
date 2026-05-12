@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-hanyang-blue: #0E4A84;
+}
+
+body {
+  background-color: #F9FAFB; /* Minimal light gray/white background */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  color: #111827;
+}
