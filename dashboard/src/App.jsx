@@ -19,18 +19,19 @@ function useEfficiencyData() {
         const items = result.data ?? [];
 
         const sorted = items
+          .filter(item => item !== null && item !== undefined) // null 데이터 제거
           .sort((a, b) => a.timestamp - b.timestamp)
           .slice(-20)
           .map(item => ({
             ...item,
-            v_in:       Number(item.v_in),
-            i_in:       Number(item.i_in),
-            p_in:       Number(item.p_in),
-            v_out:      Number(item.v_out),
-            i_out:      Number(item.i_out),
-            p_out:      Number(item.p_out),
-            efficiency: Number(item.efficiency),
-            timeLabel:  new Date(item.timestamp * 1000)
+            v_in:       Number(item?.v_in || 0),
+            i_in:       Number(item?.i_in || 0),
+            p_in:       Number(item?.p_in || 0),
+            v_out:      Number(item?.v_out || 0),
+            i_out:      Number(item?.i_out || 0),
+            p_out:      Number(item?.p_out || 0),
+            efficiency: Number(item?.efficiency || 0),
+            timeLabel:  new Date((item?.timestamp || 0) * 1000)
                           .toLocaleTimeString('ko-KR', { hour: '2-digit', minute: '2-digit', second: '2-digit' })
           }));
 
