@@ -1,0 +1,2252 @@
+{
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512": [
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "aws:cdk:stack-tags",
+      "data": [
+        {
+          "key": "amplify:deployment-type",
+          "value": "sandbox"
+        },
+        {
+          "key": "created-by",
+          "value": "amplify"
+        }
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/deploymentType": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "deploymentType"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify\\backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify\\backend-output-storage, defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/region": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "region"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify\\backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify\\backend-output-storage, defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data": [
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/awsAppsyncApiId": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "awsAppsyncApiId"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify\\backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify\\backend-output-storage, @aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/awsAppsyncApiEndpoint": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "awsAppsyncApiEndpoint"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify\\backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify\\backend-output-storage, @aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/awsAppsyncAuthenticationType": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "awsAppsyncAuthenticationType"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify\\backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify\\backend-output-storage, @aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/awsAppsyncRegion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "awsAppsyncRegion"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify\\backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify\\backend-output-storage, @aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/amplifyApiModelSchemaS3Uri": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyApiModelSchemaS3Uri"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify\\backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify\\backend-output-storage, @aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/awsAppsyncApiKey": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "awsAppsyncApiKey"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify\\backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify\\backend-output-storage, @aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/awsAppsyncAdditionalAuthenticationTypes": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "awsAppsyncAdditionalAuthenticationTypes"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify\\backend-output-storage...",
+        "Array.forEach (:)",
+        "...@aws-amplify\\backend-output-storage, @aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/BootstrapVersion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "BootstrapVersion"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\backend, node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox...",
+        "(no user code in 9007199254740991 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/CheckBootstrapVersion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CheckBootstrapVersion"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\backend, node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox...",
+        "(no user code in 9007199254740991 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/DynamoDBModelTableReadIOPS": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DynamoDBModelTableReadIOPS"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/DynamoDBModelTableWriteIOPS": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DynamoDBModelTableWriteIOPS"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/DynamoDBBillingMode": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DynamoDBBillingMode"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/DynamoDBEnablePointInTimeRecovery": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DynamoDBEnablePointInTimeRecovery"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/DynamoDBEnableServerSideEncryption": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DynamoDBEnableServerSideEncryption"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/Custom::S3AutoDeleteObjectsCustomResourceProvider": [
+    {
+      "type": "aws:cdk:is-custom-resource-handler-customResourceProvider",
+      "data": true
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/Custom::CDKBucketDeployment8693BB64968944B69AAFB0CC9EB8756C1536MiB": [
+    {
+      "type": "aws:cdk:is-custom-resource-handler-singleton",
+      "data": true
+    },
+    {
+      "type": "aws:cdk:is-custom-resource-handler-runtime-family",
+      "data": 2
+    },
+    {
+      "type": "aws:cdk:is-custom-resource-handler-singleton",
+      "data": true
+    },
+    {
+      "type": "aws:cdk:is-custom-resource-handler-runtime-family",
+      "data": 2
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifydashboardcyleesandbox6edc9d3512dataamplifyDataGraphQLAPI0D45F105ApiId": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifydashboardcyleesandbox6edc9d3512dataamplifyDataGraphQLAPI0D45F105ApiId"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\backend, node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox...",
+        "(no user code in 9007199254740991 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifydashboardcyleesandbox6edc9d3512dataamplifyDataGraphQLAPI0D45F105GraphQLUrl": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifydashboardcyleesandbox6edc9d3512dataamplifyDataGraphQLAPI0D45F105GraphQLUrl"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\backend, node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox...",
+        "(no user code in 9007199254740991 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifydashboardcyleesandbox6edc9d3512dataamplifyDataAmplifyCodegenAssetsAmplifyCodegenAssetsDeploymentCustomResource1536MiB6A191DACDestinationBucketArn": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifydashboardcyleesandbox6edc9d3512dataamplifyDataAmplifyCodegenAssetsAmplifyCodegenAssetsDeploymentCustomResource1536MiB6A191DACDestinationBucketArn"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\backend, node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox...",
+        "(no user code in 9007199254740991 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifydashboardcyleesandbox6edc9d3512dataamplifyDataGraphQLAPIDefaultApiKeyBF1545A8ApiKey": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifydashboardcyleesandbox6edc9d3512dataamplifyDataGraphQLAPIDefaultApiKeyBF1545A8ApiKey"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\backend, node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox...",
+        "(no user code in 9007199254740991 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data.NestedStack/data.NestedStackResource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "data7552DF31"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/CDKMetadata/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadata"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\backend, node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox...",
+        "(no user code in 9007199254740991 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/CDKMetadata/Condition": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadataAvailable"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\backend, node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox...",
+        "(no user code in 9007199254740991 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/AmplifyTableManager": [
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData": [
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Array.forEach (:)",
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/Custom::S3AutoDeleteObjectsCustomResourceProvider/Role": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CustomS3AutoDeleteObjectsCustomResourceProviderRole3B1BD092"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/Custom::S3AutoDeleteObjectsCustomResourceProvider/Handler": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CustomS3AutoDeleteObjectsCustomResourceProviderHandler9D90184F"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/Custom::CDKBucketDeployment8693BB64968944B69AAFB0CC9EB8756C1536MiB/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CustomCDKBucketDeployment8693BB64968944B69AAFB0CC9EB8756C1536MiBC5D8AB21"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/modelIntrospectionSchemaBucket/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "modelIntrospectionSchemaBucketF566B665"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "aws:cdk:analytics:mixin",
+      "data": {
+        "mixin": "aws-cdk-lib.aws_s3.mixins.BucketAutoDeleteObjects"
+      }
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/AMPLIFY_DATA_GRAPHQL_ENDPOINTParameter/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AMPLIFYDATAGRAPHQLENDPOINTParameter1C2CBB16"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify\\backend...",
+        "Array.map (:)",
+        "...<anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/AMPLIFY_DATA_MODEL_INTROSPECTION_SCHEMA_BUCKET_NAMEParameter/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AMPLIFYDATAMODELINTROSPECTIONSCHEMABUCKETNAMEParameter47BF4F44"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify\\backend...",
+        "Array.map (:)",
+        "...<anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/AMPLIFY_DATA_MODEL_INTROSPECTION_SCHEMA_KEYParameter/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AMPLIFYDATAMODELINTROSPECTIONSCHEMAKEYParameterB6AEAE8A"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify\\backend...",
+        "Array.map (:)",
+        "...<anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/AMPLIFY_DATA_DEFAULT_NAMEParameter/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AMPLIFYDATADEFAULTNAMEParameterE7C23CC4"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify\\backend...",
+        "Array.map (:)",
+        "...<anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/CDKMetadata/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadata"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\backend, node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox...",
+        "(no user code in 9007199254740991 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/CDKMetadata/Condition": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadataAvailable"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\backend, node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox...",
+        "(no user code in 9007199254740991 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/GraphQLAPI/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyDataGraphQLAPI42A6FA33"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/GraphQLAPI/TransformerSchema": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyDataGraphQLAPITransformerSchemaFF50A789"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/GraphQLAPI/DefaultApiKey": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyDataGraphQLAPIDefaultApiKey1C8ED374"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/GraphQLAPI/NONE_DS": [
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "NONE_DS"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/AmplifyTableManager/reference-to-amplifydashboardcyleesandbox6edc9d3512dataamplifyDataGraphQLAPI0D45F105ApiId": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "referencetoamplifydashboardcyleesandbox6edc9d3512dataamplifyDataGraphQLAPI0D45F105ApiId"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\backend, node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox...",
+        "(no user code in 9007199254740991 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/AmplifyTableManager/amplifydashboardcyleesandbox6edc9d3512dataamplifyDataAmplifyTableManagerTableManagerCustomProviderframeworkonEvent239AA93CArn": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifydashboardcyleesandbox6edc9d3512dataamplifyDataAmplifyTableManagerTableManagerCustomProviderframeworkonEvent239AA93CArn"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\backend, node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox...",
+        "(no user code in 9007199254740991 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/AmplifyTableManager.NestedStack/AmplifyTableManager.NestedStackResource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyDataAmplifyTableManagerNestedStackAmplifyTableManagerNestedStackResource86290833"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/DynamoDBModelTableReadIOPS": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DynamoDBModelTableReadIOPS"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Array.forEach (:)",
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/DynamoDBModelTableWriteIOPS": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DynamoDBModelTableWriteIOPS"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Array.forEach (:)",
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/DynamoDBBillingMode": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DynamoDBBillingMode"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Array.forEach (:)",
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/DynamoDBEnablePointInTimeRecovery": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DynamoDBEnablePointInTimeRecovery"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Array.forEach (:)",
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/DynamoDBEnableServerSideEncryption": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DynamoDBEnableServerSideEncryption"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Array.forEach (:)",
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/HasEnvironmentParameter": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "HasEnvironmentParameter"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Array.forEach (:)",
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/ShouldUsePayPerRequestBilling": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ShouldUsePayPerRequestBilling"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Array.forEach (:)",
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/ShouldUsePointInTimeRecovery": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ShouldUsePointInTimeRecovery"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Array.forEach (:)",
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/EfficiencyDataTable": [
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "EfficiencyData"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/CustomTableEfficiencyDataTable": [
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "EfficiencyData"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/GetAttEfficiencyDataTableStreamArn": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "GetAttEfficiencyDataTableStreamArn"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Array.forEach (:)",
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/GetAttEfficiencyDataTableName": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "GetAttEfficiencyDataTableName"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Array.forEach (:)",
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/EfficiencyDataIAMRole": [
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "EfficiencyDataIAMRole"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/EfficiencyDataDataSource": [
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "EfficiencyDataTable"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/queryGetEfficiencyDataResolver": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "GetEfficiencyDataResolver"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "Query.getEfficiencyData"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/queryListEfficiencyDataResolver": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ListEfficiencyDataResolver"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "Query.listEfficiencyData"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/mutationCreateEfficiencyDataResolver": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CreateEfficiencyDataResolver"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "Mutation.createEfficiencyData"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/mutationUpdateEfficiencyDataResolver": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "UpdateEfficiencyDataResolver"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "Mutation.updateEfficiencyData"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/mutationDeleteEfficiencyDataResolver": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DeleteEfficiencyDataResolver"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "Mutation.deleteEfficiencyData"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/subscriptionOnCreateEfficiencyDataResolver": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "SubscriptiononCreateEfficiencyDataResolver"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "Subscription.onCreateEfficiencyData"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/subscriptionOnUpdateEfficiencyDataResolver": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "SubscriptiononUpdateEfficiencyDataResolver"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "Subscription.onUpdateEfficiencyData"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/subscriptionOnDeleteEfficiencyDataResolver": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "SubscriptiononDeleteEfficiencyDataResolver"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "Subscription.onDeleteEfficiencyData"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/queryListEfficiencyDataByDeviceidAndTimestamp6bd2Resolver": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QuerylistEfficiencyDataByDeviceidAndTimestamp35cdResolver"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "Query.listEfficiencyDataByDevice_idAndTimestamp"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/reference-to-amplifydashboardcyleesandbox6edc9d3512dataamplifyDataAmplifyTableManagerNestedStackAmplifyTableManagerNestedStackResource15F81485Outputs.amplifydashboardcyleesandbox6edc9d3512dataamplifyDataAmplifyTableManagerTableManagerCustomProviderframeworkonEvent239AA93CArn": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "referencetoamplifydashboardcyleesandbox6edc9d3512dataamplifyDataAmplifyTableManagerNestedStackAmplifyTableManagerNestedStackResource15F81485Outputsamplifydashboardcyleesandbox6edc9d3512dataamplifyDataAmplifyTableManagerTableManagerCustomPro58AC4E7B"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\backend, node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox...",
+        "(no user code in 9007199254740991 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/reference-to-amplifydashboardcyleesandbox6edc9d3512dataamplifyDataGraphQLAPI0D45F105ApiId": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "referencetoamplifydashboardcyleesandbox6edc9d3512dataamplifyDataGraphQLAPI0D45F105ApiId"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\backend, node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox...",
+        "(no user code in 9007199254740991 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/reference-to-amplifydashboardcyleesandbox6edc9d3512dataamplifyDataGraphQLAPINONEDSA6FD1614Name": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "referencetoamplifydashboardcyleesandbox6edc9d3512dataamplifyDataGraphQLAPINONEDSA6FD1614Name"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\backend, node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox...",
+        "(no user code in 9007199254740991 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData.NestedStack/EfficiencyData.NestedStackResource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyDataEfficiencyDataNestedStackEfficiencyDataNestedStackResourceDB5E5D11"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Array.forEach (:)",
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/Custom::CDKBucketDeployment8693BB64968944B69AAFB0CC9EB8756C1536MiB/ServiceRole/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CustomCDKBucketDeployment8693BB64968944B69AAFB0CC9EB8756C1536MiBServiceRoleA41FC8C2"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/modelIntrospectionSchemaBucket/Policy/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "modelIntrospectionSchemaBucketPolicy4DAB0D15"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "aws:cdk:analytics:mixin",
+      "data": {
+        "mixin": "aws-cdk-lib.aws_s3.mixins.BucketPolicyStatements"
+      }
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/modelIntrospectionSchemaBucket/AutoDeleteObjectsCustomResource/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "modelIntrospectionSchemaBucketAutoDeleteObjectsCustomResourceFE57309F"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/modelIntrospectionSchemaBucketDeployment/AwsCliLayer/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "modelIntrospectionSchemaBucketDeploymentAwsCliLayer13C432F7"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/modelIntrospectionSchemaBucketDeployment/CustomResource-1536MiB/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "modelIntrospectionSchemaBucketDeploymentCustomResource1536MiB104B97EC"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/GraphQLAPI/NONE_DS/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyDataGraphQLAPINONEDS684BF699"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "NONE_DS"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/AmplifyTableManager/AmplifyManagedTableIsCompleteRole/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AmplifyManagedTableIsCompleteRoleF825222C"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/AmplifyTableManager/AmplifyManagedTableOnEventRole/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AmplifyManagedTableOnEventRoleB4E71DEA"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/AmplifyTableManager/AmplifyTableWaiterStateMachine/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AmplifyTableWaiterStateMachine060600BC"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/AmplifyTableManager/CDKMetadata/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadata"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\backend, node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox...",
+        "(no user code in 9007199254740991 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/AmplifyTableManager/CDKMetadata/Condition": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadataAvailable"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\backend, node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox...",
+        "(no user code in 9007199254740991 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/EfficiencyDataIAMRole/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "EfficiencyDataIAMRole3234917E"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Array.forEach (:)",
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "EfficiencyDataIAMRole"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/EfficiencyDataDataSource/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "EfficiencyDataDataSource"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Array.forEach (:)",
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "EfficiencyDataTable"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/QuerygetEfficiencyDataauth0Function/QuerygetEfficiencyDataauth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QuerygetEfficiencyDataauth0FunctionQuerygetEfficiencyDataauth0FunctionAppSyncFunction53262845"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "QuerygetEfficiencyDataauth0Function"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/QuerygetEfficiencyDatapostAuth0Function/QuerygetEfficiencyDatapostAuth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QuerygetEfficiencyDatapostAuth0FunctionQuerygetEfficiencyDatapostAuth0FunctionAppSyncFunction7F690816"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "QuerygetEfficiencyDatapostAuth0Function"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/QueryGetEfficiencyDataDataResolverFn/QueryGetEfficiencyDataDataResolverFn.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QueryGetEfficiencyDataDataResolverFnQueryGetEfficiencyDataDataResolverFnAppSyncFunction3A4951DB"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "QueryGetEfficiencyDataDataResolverFn"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/QuerylistEfficiencyDataauth0Function/QuerylistEfficiencyDataauth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QuerylistEfficiencyDataauth0FunctionQuerylistEfficiencyDataauth0FunctionAppSyncFunction0339DEBB"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "QuerylistEfficiencyDataauth0Function"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/QuerylistEfficiencyDatapostAuth0Function/QuerylistEfficiencyDatapostAuth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QuerylistEfficiencyDatapostAuth0FunctionQuerylistEfficiencyDatapostAuth0FunctionAppSyncFunction3A025407"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "QuerylistEfficiencyDatapostAuth0Function"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/QueryListEfficiencyDataDataResolverFn/QueryListEfficiencyDataDataResolverFn.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QueryListEfficiencyDataDataResolverFnQueryListEfficiencyDataDataResolverFnAppSyncFunctionB8D5CD12"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "QueryListEfficiencyDataDataResolverFn"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/MutationcreateEfficiencyDatainit0Function/MutationcreateEfficiencyDatainit0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "MutationcreateEfficiencyDatainit0FunctionMutationcreateEfficiencyDatainit0FunctionAppSyncFunctionDCE90F1B"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "MutationcreateEfficiencyDatainit0Function"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/MutationcreateEfficiencyDataauth0Function/MutationcreateEfficiencyDataauth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "MutationcreateEfficiencyDataauth0FunctionMutationcreateEfficiencyDataauth0FunctionAppSyncFunction01A6FAB6"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "MutationcreateEfficiencyDataauth0Function"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/MutationcreateEfficiencyDatapostAuth0Function/MutationcreateEfficiencyDatapostAuth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "MutationcreateEfficiencyDatapostAuth0FunctionMutationcreateEfficiencyDatapostAuth0FunctionAppSyncFunctionD540F0D7"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "MutationcreateEfficiencyDatapostAuth0Function"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/MutationCreateEfficiencyDataDataResolverFn/MutationCreateEfficiencyDataDataResolverFn.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "MutationCreateEfficiencyDataDataResolverFnMutationCreateEfficiencyDataDataResolverFnAppSyncFunctionA5F5C99C"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "MutationCreateEfficiencyDataDataResolverFn"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/MutationupdateEfficiencyDatainit0Function/MutationupdateEfficiencyDatainit0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "MutationupdateEfficiencyDatainit0FunctionMutationupdateEfficiencyDatainit0FunctionAppSyncFunctionB080C040"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "MutationupdateEfficiencyDatainit0Function"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/MutationupdateEfficiencyDataauth0Function/MutationupdateEfficiencyDataauth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "MutationupdateEfficiencyDataauth0FunctionMutationupdateEfficiencyDataauth0FunctionAppSyncFunction85ED3155"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "MutationupdateEfficiencyDataauth0Function"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/MutationupdateEfficiencyDatapostAuth0Function/MutationupdateEfficiencyDatapostAuth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "MutationupdateEfficiencyDatapostAuth0FunctionMutationupdateEfficiencyDatapostAuth0FunctionAppSyncFunction2B54F812"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "MutationupdateEfficiencyDatapostAuth0Function"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/MutationUpdateEfficiencyDataDataResolverFn/MutationUpdateEfficiencyDataDataResolverFn.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "MutationUpdateEfficiencyDataDataResolverFnMutationUpdateEfficiencyDataDataResolverFnAppSyncFunction4A96A72F"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "MutationUpdateEfficiencyDataDataResolverFn"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/MutationdeleteEfficiencyDataauth0Function/MutationdeleteEfficiencyDataauth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "MutationdeleteEfficiencyDataauth0FunctionMutationdeleteEfficiencyDataauth0FunctionAppSyncFunction611D112E"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "MutationdeleteEfficiencyDataauth0Function"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/MutationdeleteEfficiencyDatapostAuth0Function/MutationdeleteEfficiencyDatapostAuth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "MutationdeleteEfficiencyDatapostAuth0FunctionMutationdeleteEfficiencyDatapostAuth0FunctionAppSyncFunction124D50E4"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "MutationdeleteEfficiencyDatapostAuth0Function"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/MutationDeleteEfficiencyDataDataResolverFn/MutationDeleteEfficiencyDataDataResolverFn.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "MutationDeleteEfficiencyDataDataResolverFnMutationDeleteEfficiencyDataDataResolverFnAppSyncFunctionEE61E0F2"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "MutationDeleteEfficiencyDataDataResolverFn"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/SubscriptiononCreateEfficiencyDataauth0Function/SubscriptiononCreateEfficiencyDataauth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "SubscriptiononCreateEfficiencyDataauth0FunctionSubscriptiononCreateEfficiencyDataauth0FunctionAppSyncFunctionD78F051C"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "SubscriptiononCreateEfficiencyDataauth0Function"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/SubscriptiononCreateEfficiencyDatapostAuth0Function/SubscriptiononCreateEfficiencyDatapostAuth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "SubscriptiononCreateEfficiencyDatapostAuth0FunctionSubscriptiononCreateEfficiencyDatapostAuth0FunctionAppSyncFunction6CC2483A"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "SubscriptiononCreateEfficiencyDatapostAuth0Function"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/SubscriptionOnCreateEfficiencyDataDataResolverFn/SubscriptionOnCreateEfficiencyDataDataResolverFn.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "SubscriptionOnCreateEfficiencyDataDataResolverFnSubscriptionOnCreateEfficiencyDataDataResolverFnAppSyncFunction5FE62C20"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "SubscriptionOnCreateEfficiencyDataDataResolverFn"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/SubscriptiononUpdateEfficiencyDataauth0Function/SubscriptiononUpdateEfficiencyDataauth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "SubscriptiononUpdateEfficiencyDataauth0FunctionSubscriptiononUpdateEfficiencyDataauth0FunctionAppSyncFunction2415E0DE"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "SubscriptiononUpdateEfficiencyDataauth0Function"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/SubscriptiononUpdateEfficiencyDatapostAuth0Function/SubscriptiononUpdateEfficiencyDatapostAuth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "SubscriptiononUpdateEfficiencyDatapostAuth0FunctionSubscriptiononUpdateEfficiencyDatapostAuth0FunctionAppSyncFunctionD638CB30"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "SubscriptiononUpdateEfficiencyDatapostAuth0Function"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/SubscriptionOnUpdateEfficiencyDataDataResolverFn/SubscriptionOnUpdateEfficiencyDataDataResolverFn.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "SubscriptionOnUpdateEfficiencyDataDataResolverFnSubscriptionOnUpdateEfficiencyDataDataResolverFnAppSyncFunctionE3B5844E"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "SubscriptionOnUpdateEfficiencyDataDataResolverFn"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/SubscriptiononDeleteEfficiencyDataauth0Function/SubscriptiononDeleteEfficiencyDataauth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "SubscriptiononDeleteEfficiencyDataauth0FunctionSubscriptiononDeleteEfficiencyDataauth0FunctionAppSyncFunctionB32F6E52"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "SubscriptiononDeleteEfficiencyDataauth0Function"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/SubscriptiononDeleteEfficiencyDatapostAuth0Function/SubscriptiononDeleteEfficiencyDatapostAuth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "SubscriptiononDeleteEfficiencyDatapostAuth0FunctionSubscriptiononDeleteEfficiencyDatapostAuth0FunctionAppSyncFunctionD8F3E827"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "SubscriptiononDeleteEfficiencyDatapostAuth0Function"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/SubscriptionOnDeleteEfficiencyDataDataResolverFn/SubscriptionOnDeleteEfficiencyDataDataResolverFn.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "SubscriptionOnDeleteEfficiencyDataDataResolverFnSubscriptionOnDeleteEfficiencyDataDataResolverFnAppSyncFunction08366CC5"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "SubscriptionOnDeleteEfficiencyDataDataResolverFn"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/QuerylistEfficiencyDataByDevice_idAndTimestampauth0Function/QuerylistEfficiencyDataByDevice_idAndTimestampauth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QuerylistEfficiencyDataByDeviceidAndTimestampauth0FunctionQuerylistEfficiencyDataByDeviceidAndTimestampauth0FunctionAppSyncFunctionC86EE9A2"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "QuerylistEfficiencyDataByDevice_idAndTimestampauth0Function"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/QuerylistEfficiencyDataByDevice_idAndTimestamppostAuth0Function/QuerylistEfficiencyDataByDevice_idAndTimestamppostAuth0Function.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QuerylistEfficiencyDataByDeviceidAndTimestamppostAuth0FunctionQuerylistEfficiencyDataByDeviceidAndTimestamppostAuth0FunctionAppSyncFunction2AD21045"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "QuerylistEfficiencyDataByDevice_idAndTimestamppostAuth0Function"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/QueryListEfficiencyDataByDevice_idAndTimestampDataResolverFn/QueryListEfficiencyDataByDevice_idAndTimestampDataResolverFn.AppSyncFunction": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "QueryListEfficiencyDataByDeviceidAndTimestampDataResolverFnQueryListEfficiencyDataByDeviceidAndTimestampDataResolverFnAppSyncFunctionDD831864"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "QueryListEfficiencyDataByDevice_idAndTimestampDataResolverFn"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/CDKMetadata/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadata"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\backend, node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox...",
+        "(no user code in 9007199254740991 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/CDKMetadata/Condition": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadataAvailable"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\backend, node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox...",
+        "(no user code in 9007199254740991 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/AmplifyCodegenAssets/AmplifyCodegenAssetsBucket/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyDataAmplifyCodegenAssetsAmplifyCodegenAssetsBucket9CCB4ACA"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "aws:cdk:analytics:mixin",
+      "data": {
+        "mixin": "aws-cdk-lib.aws_s3.mixins.BucketAutoDeleteObjects"
+      }
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/Custom::CDKBucketDeployment8693BB64968944B69AAFB0CC9EB8756C1536MiB/ServiceRole/DefaultPolicy/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CustomCDKBucketDeployment8693BB64968944B69AAFB0CC9EB8756C1536MiBServiceRoleDefaultPolicyFF1C635B"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\node_modules\\aws-cdk-lib\\aws-s3-deployment\\lib\\bucket-deployment.js:1:71 in aws-cdk-lib...",
+        "Array.map (:)",
+        "...aws-cdk-lib, @aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/AmplifyTableManager/AmplifyManagedTableOnEventRole/DefaultPolicy/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AmplifyManagedTableOnEventRoleDefaultPolicyF6DABCB6"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/AmplifyTableManager/TableManagerCustomProvider/framework-onEvent/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "TableManagerCustomProviderframeworkonEvent1DFC2ECC"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/AmplifyTableManager/TableManagerCustomProvider/framework-isComplete/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "TableManagerCustomProviderframeworkisComplete2E51021B"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/AmplifyTableManager/AmplifyTableWaiterStateMachine/Role/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AmplifyTableWaiterStateMachineRole470BE899"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/EfficiencyData/EfficiencyDataTable/Default/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "EfficiencyDataTable"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Array.forEach (:)",
+        "...<anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "graphqltransformer:resourceName",
+      "data": "EfficiencyData"
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/AmplifyCodegenAssets/AmplifyCodegenAssetsBucket/Policy/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyDataAmplifyCodegenAssetsAmplifyCodegenAssetsBucketPolicyF1C1C548"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    },
+    {
+      "type": "aws:cdk:analytics:mixin",
+      "data": {
+        "mixin": "aws-cdk-lib.aws_s3.mixins.BucketPolicyStatements"
+      }
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/AmplifyCodegenAssets/AmplifyCodegenAssetsBucket/AutoDeleteObjectsCustomResource/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyDataAmplifyCodegenAssetsAmplifyCodegenAssetsBucketAutoDeleteObjectsCustomResource437F26F5"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/AmplifyCodegenAssets/AmplifyCodegenAssetsDeployment/AwsCliLayer/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyDataAmplifyCodegenAssetsAmplifyCodegenAssetsDeploymentAwsCliLayerE322F905"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/AmplifyCodegenAssets/AmplifyCodegenAssetsDeployment/CustomResource-1536MiB/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "amplifyDataAmplifyCodegenAssetsAmplifyCodegenAssetsDeploymentCustomResource1536MiB21775929"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, @aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ],
+  "/amplify-dashboard-cylee-sandbox-6edc9d3512/data/amplifyData/AmplifyTableManager/AmplifyTableWaiterStateMachine/Role/DefaultPolicy/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AmplifyTableWaiterStateMachineRoleDefaultPolicy89F3836A"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib, <anonymous> in @aws-amplify\\graphql-api-construct...",
+        "Map.forEach (:)",
+        "...@aws-amplify\\graphql-api-construct, @aws-amplify\\backend-data, <anonymous> in @aws-amplify\\backend...",
+        "Array.forEach (:)",
+        "...defineBackend in @aws-amplify\\backend...",
+        "<anonymous> (C:\\Users\\cylee\\Desktop\\Buck-converter-monitoring-system\\dashboard\\amplify\\backend.ts:4:1)",
+        "...node internals, @aws-amplify/backend-deployer, @aws-cdk\\toolkit-lib, @aws-amplify/backend-deployer, @aws-amplify/sandbox..."
+      ]
+    }
+  ]
+}

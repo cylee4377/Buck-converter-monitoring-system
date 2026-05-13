@@ -1,73 +1,82 @@
 import React, { useState, useEffect } from 'react';
-import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, ReferenceLine } from 'recharts';
+import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 import { Activity, Zap, CheckCircle2 } from 'lucide-react';
+import { generateClient } from 'aws-amplify/api';
 
-// Custom hook to simulate AWS Amplify Subscription (Mock Data Generator)
+// Amplify Gen2 GraphQL Client 생성 (amplify_outputs.json의 API Key 자동 사용)
+const client = generateClient();
+
+// Custom hook: AWS AppSync 실시간 구독 (DynamoDB ← Lambda ← IoT Core)
 function useEfficiencyData() {
   const [dataHistory, setDataHistory] = useState([]);
   const [currentData, setCurrentData] = useState(null);
 
   useEffect(() => {
-    // Generate initial history
-    const initialData = [];
-    const now = Math.floor(Date.now() / 1000);
-    for (let i = 20; i >= 0; i--) {
-      const p_in = 15.0 + Math.random() * 1.5;
-      const efficiency = 88 + Math.random() * 6; // 88% ~ 94%
-      const p_out = p_in * (efficiency / 100);
-      
-      initialData.push({
-        timestamp: now - i,
-        timeLabel: `${20 - i}s`, // Simple label for chart
-        v_in: 12.05 + (Math.random() - 0.5) * 0.1,
-        i_in: p_in / 12.05,
-        p_in: p_in,
-        v_out: 5.02 + (Math.random() - 0.5) * 0.05,
-        i_out: p_out / 5.02,
-        p_out: p_out,
-        efficiency: efficiency,
-        status: "Normal"
-      });
-    }
-    setDataHistory(initialData);
-    setCurrentData(initialData[initialData.length - 1]);
+    // 1. 초기 데이터 로드: 페이지 접속 시 DynamoDB의 기존 데이터 최대 20개를 가져와 차트 초기화
+    const fetchInitialData = async () => {
+      try {
+        const result = await client.models.EfficiencyData.list();
+        const items = result.data ?? [];
 
-    // Update every second
-    const interval = setInterval(() => {
-      setDataHistory(prev => {
-        const lastData = prev[prev.length - 1];
-        const newTime = lastData.timestamp + 1;
-        
-        // Random walk for smooth curve
-        const p_in = Math.max(10, Math.min(20, lastData.p_in + (Math.random() - 0.5) * 0.5));
-        let newEff = lastData.efficiency + (Math.random() - 0.5) * 0.8;
-        newEff = Math.max(85, Math.min(98, newEff)); // Clamp between 85 and 98
-        const p_out = p_in * (newEff / 100);
+        const sorted = items
+          .sort((a, b) => a.timestamp - b.timestamp)
+          .slice(-20)
+          .map(item => ({
+            ...item,
+            v_in:       Number(item.v_in),
+            i_in:       Number(item.i_in),
+            p_in:       Number(item.p_in),
+            v_out:      Number(item.v_out),
+            i_out:      Number(item.i_out),
+            p_out:      Number(item.p_out),
+            efficiency: Number(item.efficiency),
+            timeLabel:  new Date(item.timestamp * 1000)
+                          .toLocaleTimeString('ko-KR', { hour: '2-digit', minute: '2-digit', second: '2-digit' })
+          }));
 
+        if (sorted.length > 0) {
+          setDataHistory(sorted);
+          setCurrentData(sorted[sorted.length - 1]);
+        }
+      } catch (err) {
+        console.error('초기 데이터 로드 오류:', err);
+      }
+    };
+
+    fetchInitialData();
+
+    // 2. 실시간 구독: Lambda가 DynamoDB에 새 항목을 저장할 때마다 자동으로 수신하여 차트 갱신
+    const subscription = client.models.EfficiencyData.onCreate().subscribe({
+      next: (item) => {
         const newData = {
-          timestamp: newTime,
-          timeLabel: `${new Date(newTime * 1000).getSeconds()}s`,
-          v_in: 12.05 + (Math.random() - 0.5) * 0.1,
-          i_in: p_in / 12.05,
-          p_in: p_in,
-          v_out: 5.02 + (Math.random() - 0.5) * 0.05,
-          i_out: p_out / 5.02,
-          p_out: p_out,
-          efficiency: newEff,
-          status: "Normal"
+          ...item,
+          v_in:       Number(item.v_in),
+          i_in:       Number(item.i_in),
+          p_in:       Number(item.p_in),
+          v_out:      Number(item.v_out),
+          i_out:      Number(item.i_out),
+          p_out:      Number(item.p_out),
+          efficiency: Number(item.efficiency),
+          timeLabel:  new Date(item.timestamp * 1000)
+                        .toLocaleTimeString('ko-KR', { hour: '2-digit', minute: '2-digit', second: '2-digit' })
         };
-        
-        setCurrentData(newData);
-        const newHistory = [...prev.slice(1), newData];
-        return newHistory;
-      });
-    }, 1000);
 
-    return () => clearInterval(interval);
+        setCurrentData(newData);
+        setDataHistory(prev => {
+          const next = [...prev, newData];
+          return next.length > 20 ? next.slice(1) : next; // 최근 20개만 유지
+        });
+      },
+      error: (err) => console.warn('Subscription 오류:', err)
+    });
+
+    // 컴포넌트 언마운트 시 구독 해제 (메모리 누수 방지)
+    return () => subscription.unsubscribe();
   }, []);
 
   return { dataHistory, currentData };
 }
+
 
 function App() {
   const { dataHistory, currentData } = useEfficiencyData();

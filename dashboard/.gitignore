@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Amplify Gen2 CDK 빌드 캐시 (로컬 전용, GitHub 업로드 불필요)
+.amplify/
