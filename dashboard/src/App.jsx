@@ -3,15 +3,16 @@ import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContai
 import { Activity, Zap, CheckCircle2 } from 'lucide-react';
 import { generateClient } from 'aws-amplify/api';
 
-// Amplify Gen2 GraphQL Client 생성 (amplify_outputs.json의 API Key 자동 사용)
-const client = generateClient();
-
 // Custom hook: AWS AppSync 실시간 구독 (DynamoDB ← Lambda ← IoT Core)
 function useEfficiencyData() {
   const [dataHistory, setDataHistory] = useState([]);
   const [currentData, setCurrentData] = useState(null);
+  const [isInitialized, setIsInitialized] = useState(false); // 로딩 상태 추적
 
   useEffect(() => {
+    // main.jsx에서 Amplify.configure()가 완료된 이후에 안전하게 Client 생성
+    const client = generateClient();
+    
     // 1. 초기 데이터 로드: 페이지 접속 시 DynamoDB의 기존 데이터 최대 20개를 가져와 차트 초기화
     const fetchInitialData = async () => {
       try {
@@ -41,6 +42,8 @@ function useEfficiencyData() {
         }
       } catch (err) {
         console.error('초기 데이터 로드 오류:', err);
+      } finally {
+        setIsInitialized(true); // 데이터가 있든 없든 로딩 완료 처리
       }
     };
 
@@ -75,14 +78,20 @@ function useEfficiencyData() {
     return () => subscription.unsubscribe();
   }, []);
 
-  return { dataHistory, currentData };
+  return { dataHistory, currentData, isInitialized };
 }
 
-
 function App() {
-  const { dataHistory, currentData } = useEfficiencyData();
+  const { dataHistory, currentData, isInitialized } = useEfficiencyData();
 
-  if (!currentData) return <div className="flex h-screen items-center justify-center">Loading...</div>;
+  if (!isInitialized) return <div className="flex h-screen items-center justify-center font-bold text-gray-500">데이터베이스 연결 중...</div>;
+  if (!currentData) return (
+    <div className="flex flex-col h-screen items-center justify-center space-y-4 font-sans text-gray-600 bg-gray-50">
+      <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-500"></div>
+      <p className="text-lg font-bold">기기에서 데이터를 기다리는 중입니다...</p>
+      <p className="text-sm">ESP32 전원을 켜거나 AWS Lambda에서 테스트 이벤트를 전송해주세요.</p>
+    </div>
+  );
 
   return (
     <div className="min-h-screen bg-[#F9FAFB] flex justify-center py-8 px-4 font-sans text-[#111827]">
