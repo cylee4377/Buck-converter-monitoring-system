@@ -76,13 +76,14 @@ ESP32에서 AWS IoT Core로 발행하는 MQTT 메시지는 아래의 JSON 형식
 
 ### 2.2 DynamoDB 물리적 저장 구조
 
-Amplify 배포 시 자동 생성되는 DynamoDB 테이블 속성은 다음과 같다.
+Amplify Gen2 배포 시 자동 생성되는 DynamoDB 테이블 속성은 다음과 같다.
+실제 테이블명: `EfficiencyData-hpwltwq24jddvmfgzndquauis4-NONE`
 
 | 속성명 | DynamoDB 타입 | 역할 | 비고 |
 |--------|--------------|------|------|
-| **id** | String (PK) | 고유 UUID | Amplify 자동 생성 |
-| **device_id** | String (GSI PK) | 기기별 조회용 보조 인덱스 파티션 키 | Index: `byDevice` |
-| **timestamp** | Number (GSI SK) | 시계열 조회용 보조 인덱스 정렬 키 | Index: `byDevice` |
+| **id** | String (PK) | 고유 UUID | Amplify 자동 생성, 단일 PK |
+| **device_id** | String | 기기 식별자 | GSI 미사용, 일반 속성 |
+| **timestamp** | Number | 측정 시간 (Unix Epoch) | ~~SK~~ → 일반 속성 (Amplify Gen2 스키마 기준) |
 | **v_in** | Number | 입력 전압 [V] | |
 | **i_in** | Number | 입력 전류 [A] | |
 | **p_in** | Number | 입력 전력 [W] | |
@@ -92,6 +93,10 @@ Amplify 배포 시 자동 생성되는 DynamoDB 테이블 속성은 다음과 �
 | **efficiency** | Number | 최종 변환 효율 [%] | |
 | **status** | String | 동작 상태 | Nullable |
 | **ttl** | Number | TTL 만료 시각 (Unix Epoch) | 비용 관리용 |
+
+> **[v1.1 → v1.2 변경 이유]** 초기 설계(`v1.1`)에서는 `timestamp`를 SK로 사용하는 수동 테이블을 상정했으나,
+> AWS Amplify Gen2 배포 시 AppSync 스키마 기준으로 테이블이 자동 생성되며 SK 없이 `id`만 PK로 구성된다.
+> `timestamp`는 SK에서 일반 속성으로 역할이 변경되었으나, **ESP32의 MQTT 전송 포맷 및 Lambda의 저장 로직은 변경 없음**.
 
 ---
 
